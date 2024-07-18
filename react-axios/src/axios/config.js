@@ -8,4 +8,4 @@ const blogFetch = axios.create({
     } 
 })
 
-export default configFetch
+export default blogFetch
